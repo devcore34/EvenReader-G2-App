@@ -1,0 +1,15 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+
+# Build outputs
+dist/
+
+# Do not ignore ready-made glasses package
+!even-reader.ehpk
+
+# System & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
